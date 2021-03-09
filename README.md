@@ -11,3 +11,4 @@ The purpose of this project is to analyze four given datasets of unsigned artsis
 - Time Series Prediction Through Multivariate Regression
 
 ## View the Project in nbviewer
+https://nbviewer.jupyter.org/github/Kayaae/undervalued_artists/blob/master/undervalued_artists.ipynb
